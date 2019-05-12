@@ -1,3 +1,3 @@
 # Android dummy
-> dommy app for android
+> dummy app for android
 
